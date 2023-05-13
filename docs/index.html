@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>码猿技术专栏</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="https://java-family.cn/js/vue.css">
+    <link rel="stylesheet" href="https://java-family.cn/js/gitalk.css">
+</head>
+<body>
+
+<body>
+<div id="app"></div>
+</body>
+<script>
+    // var gitalk = new Gitalk({
+    //     clientID: '2ca3fccfe9e3d02f38fa',
+    //     clientSecret: 'ac28b022ffaaa83cb9596da7d09aeb6d14fe9359',
+    //     repo: 'gitTalk-comments',
+    //     owner: 'chenjiabing666',
+    //     admin: ['chenjiabing666'],
+    //     // facebook-like distraction free mode
+    //     distractionFreeMode: false
+    // });
+    window.$docsify = {
+        executeScript: true,
+        loadNavbar: true,
+        loadSidebar: true,
+        hideSidebar: false,
+        //显示目录
+        subMaxLevel: 2,
+        mergeNavbar: true, // 小屏设备下合并导航栏到侧边栏
+        name: '码猿技术专栏',
+        notFoundPage: true, // 找不到页面时
+        auto2top: true,//切换页面后是否自动跳转到页面顶部
+        repo: '',
+        coverpage: true,
+        ga: 'UA-XXXXX-Y',
+        count: {
+            countable: true,
+            fontsize: '0.9em',
+            color: 'rgb(90,90,90)',
+            language: 'chinese'
+        },
+        beian: {
+            ICP: "苏ICP备",
+            NISMSP: {
+                number: "2022017167号-1",
+                url: "https://beian.miit.gov.cn",
+            },
+        },
+        // search : [
+        //     '/',            // => /README.md
+        //     '/guide',       // => /guide.md
+        //     '/get-started', // => /get-started.md
+        //     '/zh-cn/',      // => /zh-cn/README.md
+        // ],
+
+
+        search: {
+            maxAge: 86400000,
+            placeholder: '搜索.....',
+
+
+            placeholder: {
+                '/zh-cn/': '搜索.....',
+                '/': '搜索.....'
+            },
+
+            noData: '未找到结果，换个搜索词试试？',
+
+
+            noData: {
+                '/zh-cn/': '未找到结果，换个搜索词试试？',
+                '/': '未找到结果，换个搜索词试试？'
+            },
+
+            depth: 6,
+
+            hideOtherSidebarContent: false,
+
+
+            namespace: 'website-1',
+        }
+    }
+</script>
+<!-- Docsify v4 -->
+<script src="https://java-family.cn/js/docsify.min.js"></script>
+<script src="https://java-family.cn/js/emoji.min.js"></script>
+<script src="https://java-family.cn/js/prism-bash.min.js"></script>
+<script src="https://java-family.cn/js/prism-php.min.js"></script>
+<script src="https://java-family.cn/js/prism-java.min.js"></script>
+<script src="https://java-family.cn/js/prism-yaml.min.js"></script>
+<script src="https://java-family.cn/js/search.min.js"></script>
+<script src="https://java-family.cn/js/zoom-image.min.js"></script>
+<script src="https://java-family.cn/js/ga.min.js"></script>
+<script src="https://java-family.cn/js/docsify-copy-code.min.js"></script>
+<script src="https://java-family.cn/js/docsify-pagination.min.js"></script>
+<script src="https://java-family.cn/js/countable.js"></script>
+<script src="https://java-family.cn/js/beian.min.js"></script>
+<script src="https://java-family.cn/js/gitalk.min.js"></script>
+<script src="https://java-family.cn/js/gitalk2.min.js"></script>
+
+<script>
+    //地址：https://www.qiansw.com/solve-the-problem-of-using-gitalk-authorization-403.html
+    const gitalk = new Gitalk({
+        clientID: '2ca3fccfe9e3d02f38fa',
+        clientSecret: 'ac28b022ffaaa83cb9596da7d09aeb6d14fe9359',
+        repo: 'gitTalk-comments',
+        owner: 'chenjiabing666',
+        admin: ['chenjiabing666'],
+        // facebook-like distraction free mode
+        distractionFreeMode: false,
+        title: location.hash.match(/#(.*?)([?]|$)/)[1],
+        id: location.hash.match(/#(.*?)([?]|$)/)[1],
+        proxy: 'https://www.java-family.cn/login/oauth/access_token'
+    })
+
+    // 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
+    window.onhashchange = function(event){
+        if(event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
+            location.reload();
+        }
+    }
+</script>
+
+
+
+</body>
+</html>
