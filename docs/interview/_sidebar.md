@@ -1,4 +1,6 @@
 * [Java 基础](interview/java-base.md)
+* [Java 集合](interview/collection.md)
+* [并发编程](interview/javathread.md)
 * [JVM](interview/jvm.md)
 * [MySQL](interview/MySQL.md)
 * [Redis](interview/Redis.md)

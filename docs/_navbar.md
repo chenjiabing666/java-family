@@ -1,5 +1,26 @@
+* 在线工具:hammer:
+    * [JSON](https://www.json.cn/)
+    * [JSON生成实体](https://www.json.cn/json/json2java.html)
+    * [SQL压缩](http://www.wetools.com/sql-minify)
+    * [正则表达式](https://www.sojson.com/regex/)
+    * [IP地址](https://www.ip138.com/)
+    * [unicode转换](https://www.fulimama.com/unicode/)
+    * [base64编码/解码](https://c.runoob.com/front-end/693/)
+    * [画流程图](https://www.processon.com/)
+    * [代码生成图片](https://www.dute.org/code-snapshot)
+    * [图床](https://www.superbed.cn/)
+    * [调色板](https://www.sojson.com/web/online.html)
+    * [二维码生成](https://cli.im/)
+    * [MD5加密](https://www.toolkk.com/tools/md5-encrypt)
+    * [时间戳转换](https://www.beijing-time.org/shijianchuo/)
+    * [文本对比](https://c.runoob.com/front-end/8006/)
+    * [Java在线编译](https://c.runoob.com/compile/10/)
+    * [免费壁纸](https://www.pexels.com/zh-cn/)
+
 * 后端面试:+1:
     * [Java 基础](interview/java-base.md)
+    * [Java 集合](interview/collection.md)
+    * [并发编程](interview/javathread.md)
     * [JVM](interview/jvm.md)
     * [MySQL](interview/MySQL.md)
     * [Redis](interview/Redis.md)
@@ -8,18 +29,11 @@
 * 付费视频专栏:+1:
     * [《Spring Cloud Alibaba 实战》](pay/Spring-Cloud-Alibaba实战.md)
     * [《亿级数据分库分表实战》](pay/分库分表实战.md)
-    
 * Spring 全家桶
     * [Spring Boot 进阶](spring-boot/README.md)
     * [Spring Cloud 进阶](spring-cloud/README.md)
-
 * [ShardingSphere 进阶](ShardingSphere/README.md)
-
 * [Mybatis 进阶](Mybatis/README.md)
-
 * [知识星球](知识星球.md)
-
-* [哔哩哔哩:arrow_upper_right:](https://space.bilibili.com/60717546)
-
 * [GitHub](https://github.com/chenjiabing666/JavaFamily)
 
