@@ -34,7 +34,7 @@
 
 Java中创建线程主要有三种方式，分别为继承Thread类、实现Runnable接口、实现Callable接口。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/PMZOEonJxWcMxSzU05DWGIZ1b1icvRXTS6LVYDqPoWWNxm2p8ibPTjwxiaSDaaLxcHvMg0ib7oWQaxUE5g95CRdjwA/640?wx_fmt=png)
+![](https://img.java-family.cn/20230514181557image-20230514181557411.png)
 
 继承Thread类，重写run()方法，调用start()方法启动线程
 
