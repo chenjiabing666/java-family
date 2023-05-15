@@ -54,4 +54,5 @@
     * [02 Nacos配置中心交互模型是 push 还是 pull ？](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247498111&idx=1&sn=ed64ab766a0b3b9b80121b8940e6ff73&chksm=fcf726b2cb80afa4a11913a4152301a9691027c69bb93174b0b7312382180454736879938bd0&token=651972823&lang=zh_CN#rd)
     * [03 从实现原理来讲，Nacos 为什么这么强？](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247514933&idx=1&sn=374da0ea32321baf6938ff2e611d8fce&chksm=fcf764f8cb80edee2a0c493f58570b1502fb093ccd38fd498de1f6c1213e24e0355d8bcd713f&scene=178&cur_album_id=2042874937312346114#rd)
     * [04 Nacos 和 Apollo中的 长轮询 定时机制，太好用了~](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247515294&idx=1&sn=50c84d2cb6b29f7d2892330d6e560c75&chksm=fcf76353cb80ea45ae0b9e0186ac4feb3dd8efad6f96c9218c0dacd994ce6682d2d1b3e9adff&scene=178&cur_album_id=2042874937312346114#rd)
+    * [05 Nacos、OpenFeign、Ribbon、loadbalancer组件协调工作的原理](spring-cloud/Nacos、OpenFeign、Ribbon、loadbalancer组件协调工作的原理.md)
 
