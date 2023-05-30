@@ -2,7 +2,7 @@
 
 站主曾就职于蚂蚁金服高级技术专家，擅长 Java后端架构技术，尤其对微服务研究颇深，浸淫多年；
 
-<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;"/>
+<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;"	/>
 
 > 扫描上方二维码关注，回复关键词：**BTA**，获取BTA大厂面试宝典！
 
@@ -33,6 +33,17 @@
 - [Redis](interview/Redis.md)
 - [Spring](interview/Spring.md)
 - [kafka](interview/kafka.md)
+- [RabbitMQ](interview/RabbitMQ.md)
+- [RocketMQ](interview/RocketMQ.md)
+- [RPC](interview/RPC.md)
+- [Zookeeper](interview/Zookeeper.md)
+- [EleasticSearch](interview/EleasticSearch.md)
+- [操作系统](interview/操作系统.md)
+- [计算机网络](interview/计算机网络.md)
+- [数据结构](interview/数据结构.md)
+- [算法](interview/算法.md)
+- [分布式事务](interview/分布式事务.md)
+- [CAP、Base](interview/CAP、Base理论介绍.md)
 
 <hr/>
 
