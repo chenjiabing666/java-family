@@ -457,3 +457,9 @@ Kryo和FST这两种序列化方式是 Dubbo 后来才引入的，性能非常好
 Dubbo 官方文档中还有一个关于这些[序列化协议的性能对比图open in new window](https://dubbo.apache.org/zh/docs/v2.7/user/serialization/#m-zhdocsv27userserialization)可供参考。
 
 ![](https://img.java-family.cn/20220907164352.png)
+
+最近整理了一份BAT大厂的面试宝典，微信搜 **Java后端面试官** 或扫描下方二维码关注原创公众号：Java后端面试官，回复 **BAT** 即可免费领取。
+
+<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;" />
+
+来源：三分恶

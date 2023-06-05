@@ -119,3 +119,7 @@ Dubbo 也是 Spring Cloud Alibaba 里面的一个组件。
 但是，Dubbo 和 Motan 主要是给 Java 语言使用。虽然，Dubbo 和 Motan 目前也能兼容部分语言，但是不太推荐。如果需要跨多种语言调用的话，可以考虑使用 gRPC。
 
 综上，如果是 Java 后端技术栈，并且你在纠结选择哪一种 RPC 框架的话，我推荐你考虑一下 Dubbo。
+
+最近整理了一份BAT大厂的面试宝典，微信搜 **Java后端面试官** 或扫描下方二维码关注原创公众号：Java后端面试官，回复 **BAT** 即可免费领取。
+
+<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;" />

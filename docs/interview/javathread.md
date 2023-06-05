@@ -1982,3 +1982,9 @@ public class CountTask extends RecursiveTask<Integer> {
 ```
 
 ForkJoinTask与一般Task的主要区别在于它需要实现compute方法，在这个方法里，首先需要判断任务是否足够小，如果足够小就直接执行任务。如果比较大，就必须分割成两个子任务，每个子任务在调用fork方法时，又会进compute方法，看看当前子任务是否需要继续分割成子任务，如果不需要继续分割，则执行当前子任务并返回结果。使用join方法会等待子任务执行完并得到其结果。
+
+最近整理了一份BAT大厂的面试宝典，微信搜 **Java后端面试官** 或扫描下方二维码关注原创公众号：Java后端面试官，回复 **BAT** 即可免费领取。
+
+<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;" />
+
+来源：三分恶
