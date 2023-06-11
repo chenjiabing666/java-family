@@ -2,7 +2,7 @@
 
 站主曾就职于蚂蚁金服高级技术专家，擅长 Java后端架构技术，尤其对微服务研究颇深，浸淫多年；
 
-<img src="https://img.java-family.cn/@Async%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E5%BB%BA%E8%AE%AE%E4%BD%BF%E7%94%A8/16.jpg" style="zoom:50%;"	/>
+<img src="https://img.java-family.cn/20230611092954image-20230611092954337.png" style="zoom:50%;" />
 
 > 扫描上方二维码关注，回复关键词：**BTA**，获取BTA大厂面试宝典！
 
