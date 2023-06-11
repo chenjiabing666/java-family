@@ -120,6 +120,6 @@ Dubbo 也是 Spring Cloud Alibaba 里面的一个组件。
 
 综上，如果是 Java 后端技术栈，并且你在纠结选择哪一种 RPC 框架的话，我推荐你考虑一下 Dubbo。
 
-最近整理了一份BAT大厂的面试宝典，微信搜 **Java后端面试官** 或扫描下方二维码关注原创公众号：Java后端面试官，回复 **BAT** 即可免费领取。
+最近整理了一份BAT大厂的面试宝典，微信搜 **码猿技术专栏** 或扫描下方二维码关注原创公众号：码猿技术专栏，回复 **BAT** 即可免费领取。
 
-<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;" />
+<img src="https://img.java-family.cn/20230611092954image-20230611092954337.png" style="zoom:50%;" />

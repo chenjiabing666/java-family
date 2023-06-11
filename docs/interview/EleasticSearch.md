@@ -295,4 +295,4 @@ scroll 会一次性给你生成**所有数据的一个快照**，然后每次滑
 
 最近整理了一份BAT大厂的面试宝典，微信搜 **Java后端面试官** 或扫描下方二维码关注原创公众号：Java后端面试官，回复 **BAT** 即可免费领取。
 
-<img src="https://img.java-family.cn/20220819195706.png" style="zoom:50%;" />
+<img src="https://img.java-family.cn/20230611092954image-20230611092954337.png" style="zoom:50%;" />
