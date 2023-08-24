@@ -21,7 +21,8 @@
     * [20 优雅地处理重复请求（并发请求）](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247507978&idx=1&sn=bc919c9cce29f25f38574d10a1e7289d&chksm=fcf77fc7cb80f6d184a19d19438974ce3c87e0855910d003094c33c558ca7ea2245a0bd6d5d6&token=651972823&lang=zh_CN#rd)
     * [21 22条API设计的最佳实践](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247506245&idx=1&sn=b8ed8e6b4947c5783014b25c79b10813&chksm=fcf70688cb808f9e99db04669ebf27de9335c18da691ba56879911d54cea96390983aaf2acaf&token=651972823&lang=zh_CN#rd)
     * [22 大厂也在用的 6种 数据脱敏方案，别做泄密内鬼！](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247504633&idx=1&sn=85f0e78d990a0fc6d3c1135dd3b49b4a&chksm=fcf70d34cb80842246fe7623cc5dba23ed316a33b9447f1ff6e71367f941e0891f6e815c7c0f&token=651972823&lang=zh_CN#rd)
-
+    * [23 高可用的11个关键技巧](summarize/01-聊聊高可用的11个关键技巧.md)
+    
 * 代码优化
     * [01 9条消除if...else的锦囊妙计，解决代码的坏味道！](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247505320&idx=1&sn=2ebbe083029a084fdf9f9b1626bc6488&chksm=fcf70a65cb80837336a74db3ec4bf79939cdae4d2cbbcb141d24a8a0a351a2084edec465561b&token=651972823&lang=zh_CN#rd)
     * [02 搞定 代码重复 的 3 个绝招！](https://mp.weixin.qq.com/s?__biz=MzU3MDAzNDg1MA==&mid=2247506605&idx=1&sn=d5807f2d0dff0c98b05ca92f59c7fd5b&chksm=fcf70560cb808c763cce7c7e0a40ba2d988bcf8e62124507aaaf5eba8909d077b9ec63266006&token=651972823&lang=zh_CN#rd)

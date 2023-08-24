@@ -2,7 +2,7 @@
 
 前期一直在更新**《Spring Cloud 进阶》**这个专栏，很多读者反馈知识太杂了，想要一时间掌握非常困难，想要陈某出一个实战项目，这样能够更加深入的理解。
 
-陈某趁着隔离和徒弟两人熬了一个月时间出了一个Spring Cloud Alibaba微服务的实战项目，其中运用了当下主流的微服务技术，比如Nacos、Sentinel、Seata、OpenFeign、Skywalking.....
+于是陈某花费了两个月的时间录制了**《Spring Cloud Alibaba 实战》**课程，通过一个完整的项目带大家深入实战，其中运用了当下主流的微服务技术，比如Nacos、Sentinel、Seata、OpenFeign、Skywalking.....
 
 项目初期整体架构图如下：
 
@@ -27,9 +27,9 @@
 - 采用 **AOP** + 自定义注解 + **Redis** 实现限制IP接口访问次数
 - 使用**Docker+Docker Compose** 完全自动部署
 
-视频已经全部录制完毕，总计**78**节课，课程大纲如下：
+视频已经全部录制完毕，总计**90**节视频，课程大纲如下：
 
-![](https://img.java-family.cn/木谷博客/21.png)
+<img src="https://img.java-family.cn/木谷博客/21.png" style="zoom:80%;" />
 
 
 视频目录如下：
@@ -46,7 +46,9 @@
 
 ## 如何订阅课程？
 
+本专栏是**付费**订阅，原价**189**，月底最后一天，**前十名优惠30元**，先到先得，需要订阅的私信我！
+
 扫描下方二维码：
 
-![](https://img.java-family.cn/木谷博客/36.jpg)
+<img src="https://img.java-family.cn/木谷博客/36.jpg" style="zoom:80%;" />
 
