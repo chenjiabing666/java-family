@@ -30,6 +30,12 @@
 
 <hr/>
 
+
+
+# 开发工具破解
+
+- [《IDEA破解》](tool/IDEA2023.2破解教程.md)
+
 # 推荐阅读
 
 - [《Spring Cloud 进阶》](spring-cloud/README.md)
